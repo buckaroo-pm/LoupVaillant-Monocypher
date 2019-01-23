@@ -15,3 +15,10 @@ tests/formal-analysis
 monocypher-*
 doc/html/*.html
 tests/vectors.h
+
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
